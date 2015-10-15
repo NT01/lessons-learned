@@ -1,0 +1,11 @@
+Agile software development is a philosophy based on the following principles: 1) individuals and interactions over processes and tools; 2) working software over comprehensive documentation; 3) customer collaboration over contract negotiation; and 4) responding to change over following a plan. It thus emphasizes incremental, user-story driven development. In practice, Agile software development focuses on the 3 C’s: Card, Conversation, and Confirmation.
+
+Card literally refers to index cards and post its, upon which user stories should be written. These stories should be in the Connextra role-feature-benefit format – “As a role, I want feature, so that benefit.” This is valuable as a way to specify software in two respects. First, it aids in planning by breaking down projects into more easily manageable and distributable tasks; every feature must be concisely written up to fit on a card. Ideally, each should take a few days to code and those features that are too complicated (“epics”) can be decomposed into smaller stories. Second, it forces developers to focus on building functionality that users actually want and will use.
+![Image of Card](http://agilecoach.typepad.com/photos/connextra_user_story_2001/connextrastorycard.jpg)
+
+
+Conversation refers to the brief clarifying discussions that should take place with the developer before and during coding, so that the developer can clear up questions regarding the meaning and intent of a card. For example, something as seemingly simple as registering for a website can have a lot of ambiguity. Should users be able to use Facebook and Google log-ins, what do the password requirements need to be, how much information do they need to provide, are there captchas or other verification, etc. These types of questions are resolved during the conversations and help ensure that design and execution are consistentintent.
+
+Confirmation occurs after the feature is programmed; the design and functionality of the feature are tested to make sure that it looks and works the way it was meant to. If changes additional changes need to be made, they are identified here and you iterate again through Conversation and Confirmation.
+
+For more information on Agile Development, check out this blog: http://agilemethodology.org/
