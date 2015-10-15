@@ -8,7 +8,7 @@ First, we validate assumptions towards the goal of achieving product-market fit.
 
 ![Image of Build-Measure-Learn cycle](https://lh5.googleusercontent.com/TonKNQgXXkyFJkWD3tUHYjhotkOP_90OF7b37mESpAria_mOn_7u3F_u3DVqrG3eO4Pea3jd7KTu2xc_TVlh43i1BreaoY7q-CZpYqSc0aOPLYogcOBQXmSXW0YzDqwkWA)
 
-Second, we should ensure that we looking at the problem space independently of the solution space, and base a definition of the solution space upon how we first define the problem space. Some pertinent questions to ask could include the following:
+Second, we should ensure that we looking at the problem space independently of the solution space, and base a definition of the solution space upon how we first define the problem space. As the potential solutions are being refined, we come back to the idea of the build-measure-learn cycle and validating assumptions. Some pertinent questions to ask could include the following:
 
 *Problem space*
 - Does somebody have a big enough problem?
@@ -17,7 +17,6 @@ Second, we should ensure that we looking at the problem space independently of t
 *Solution space*
 - How are they solving the problem now?
 - How can you add or enable a solution to this problem?
-As the potential solutions are being refined, we come back to the idea of the build-measure-learn cycle and validating assumptions.
 
 Third, then, is the lesson that we can validate hypotheses in a variety of ways. One method is through user research (e.g. focus groups, surveys, observation, interviews), and another is through creating of a minimum viable product. Despite the draw of building a "perfect" solution, the MVP approach is incredibly valuable and can take forms such as a lightweight prototype, email-first startup, Wizard of Oz MVP, among other forms. Dropbox provides a compelling [case study](http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/) for the value of an MVP.
 
