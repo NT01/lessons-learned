@@ -13,7 +13,7 @@ Second, we should ensure that we looking at the problem space independently of t
 *Problem space*
 - Does somebody have a big enough problem?
 - Do they want this problem solved?
-- 
+
 *Solution space*
 - How are they solving the problem now?
 - How can you add or enable a solution to this problem?
