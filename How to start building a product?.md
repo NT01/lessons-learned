@@ -12,4 +12,4 @@ To summarize, I can break the product creation part into the following steps: (1
 
 The following link  gives a quick synopsis of epics and user stories: https://www.scrumalliance.org/community/spotlight/mike-cohn/march-2014/agile-user-stories-epics-and-themes
 
-![Right before starting to build](http://future-training.org/wp-content/uploads/confused1.jpeg)
+![Right before starting to build](http://cache.lego.com/r/george/-/media/franchises/george/product/product%20images/producttout_build__289x211.jpg?l.r2=-2088892859)
